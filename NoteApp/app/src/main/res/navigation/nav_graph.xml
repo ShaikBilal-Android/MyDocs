@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFregment">
+
+    <fragment
+        android:id="@+id/homeFregment"
+        android:name="com.example.noteapp.fragments.HomeFregment"
+        android:label="HomeFregment" >
+        <action
+            android:id="@+id/action_homeFregment_to_addNoteFregment"
+            app:destination="@id/addNoteFregment" />
+        <action
+            android:id="@+id/action_homeFregment_to_editNoteFregment"
+            app:destination="@id/editNoteFregment" />
+    </fragment>
+    <fragment
+        android:id="@+id/addNoteFregment"
+        android:name="com.example.noteapp.fragments.AddNoteFregment"
+        android:label="AddNoteFregment" >
+        <action
+            android:id="@+id/action_addNoteFregment_to_homeFregment"
+            app:destination="@id/homeFregment" />
+    </fragment>
+    <fragment
+        android:id="@+id/editNoteFregment"
+        android:name="com.example.noteapp.fragments.EditNoteFregment"
+        android:label="EditNoteFregment" >
+        <action
+            android:id="@+id/action_editNoteFregment_to_homeFregment"
+            app:destination="@id/homeFregment" />
+    </fragment>
+</navigation>

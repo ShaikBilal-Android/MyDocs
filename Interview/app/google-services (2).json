@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764654926525",
+    "project_id": "raicetechinterviewtask",
+    "storage_bucket": "raicetechinterviewtask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764654926525:android:eda4d3212f32cbc5fad5d4",
+        "android_client_info": {
+          "package_name": "com.example.raicetechinterviewtask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWK0R7Tf-vRpI_iND7gW7N87ChO4zKE40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ployline</string>
+    <string name="MAPS_API_KEY" translatable="false">AIzaSyCmddrTHpFcIQK8YWFuKQBdNEA9zGKDD5I</string>
+
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131791325069",
+    "project_id": "raicetechtask",
+    "storage_bucket": "raicetechtask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131791325069:android:6948574fb6b58c135d1fc4",
+        "android_client_info": {
+          "package_name": "com.example.studenttask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo6LfaOTvMKjFxptqx3WvbFhYhs5nVE1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

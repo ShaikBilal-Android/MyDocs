@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745757807421",
+    "project_id": "book-3fe87",
+    "storage_bucket": "book-3fe87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745757807421:android:52dcbf13dbf732f3992b54",
+        "android_client_info": {
+          "package_name": "com.example.firebasertdb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALdC3vrelh_kShEplRl7HyDCFK83OPjHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
